@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ziyanahalexander/ziyanahalexander/main/headshot.png" width="180" style="border-radius: 50%;" alt="Ziyanah Alexander"/>
 
-<!--
-**ziyanahalexander/ziyanahalexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # Hi, I'm Ziyanah 👋
 
-Here are some ideas to get you started:
+  **AI Fellow @ TechPals** — helping older adults stay safe and informed online
+  
+  Making my way in AI/ and tech, one project at a time 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ziyanah-alexander-150b54371/)
+</div>
+
+---
+
+### 🔭 What I'm working on
+- Building **AI-powered tools that make the internet safer** — starting with a scam/phishing email detector ([check it out here](https://github.com/ziyanahalexander/Scam-Detector-project))
+- Learning web development through **CodePath**
+- Growing my skills in Python, scikit-learn, and applied machine learning
+
+### 🌱 Currently learning
+- Practical AI engineering (like building ML pipelines!)
+- Full-stack web development
+
+### 💬 About my mission
+I'm passionate about **building technology that helps people and makes life easier** — 
+
+---
+<div align="center">
+  <i>Thanks for stopping by! ✨</i>
+</div>
