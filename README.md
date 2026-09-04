@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ziyanahalexander/ziyanahalexander/main/headshot.png" width="180" style="border-radius: 50%;" alt="Ziyanah Alexander"/>
+  <img src="https://raw.githubusercontent.com/ziyanahalexander/ziyanahalexander/main/4.png" width="180" style="border-radius: 50%;" alt="Ziyanah Alexander"/>
 
   # Hi, I'm Ziyanah 👋
 
