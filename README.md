@@ -1,6 +1,6 @@
 <div align="center">
- <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/ziyanahalexander/ziyanahalexander/main/4.png&w=180&h=180&fit=cover&mask=circle" width="180" alt="Ziyanah Alexander"/>
-
+  <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/ziyanahalexander/ziyanahalexander/main/4.png&w=180&h=220&fit=cover&a=center&mask=circle" width="180" alt="Ziyanah Alexander"/>
+ 
   # Hi, I'm Ziyanah 👋
 
   **AI Fellow @ TechPals** — helping older adults stay safe and informed online
